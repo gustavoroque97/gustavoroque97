@@ -15,7 +15,7 @@
 
 - de Oliveira Roque, G. R., Borges, C. C. H., & Yamim, J. D. M. (2025). An importance and frequency-based approach for sparse online portfolios. Brazilian Review of Finance, 23, e202505-e202505.
 
-  ## Social networks
+  ## 🌍 Social networks
 - [LinkedIn](https://www.linkedin.com/in/gustavoroque97/)
 
 <!--
