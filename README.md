@@ -1,4 +1,19 @@
-## Hi there 👋
+## 👨‍💻 Bio
+
+- 🎉 Hello and welcome! I'm Gustavo Roque, a brazilian data scientist.
+- 💻 I'm a PhD Student in Computational Modelling at UFJF, currently studying Online Portfolio Optimization, using Machine Learning 🤖 and Complex Networks 🌐 techniques.
+- 🎓 I hold a MsC in Mathematics at UFJF focused on Lyapunov Exponents on Continuous Flows.
+- 🌱 I'm currently studying causal inference models, specially differences-in-differences 📊.
+
+## 📂 Main repositories
+
+- [Heavy metal data](https://github.com/gustavoroque97/heavy_metal_data)
+
+## 📚 Publications
+
+### 2025 
+
+- de Oliveira Roque, G. R., Borges, C. C. H., & Yamim, J. D. M. (2025). An importance and frequency-based approach for sparse online portfolios. Brazilian Review of Finance, 23, e202505-e202505.
 
 <!--
 **gustavoroque97/gustavoroque97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
