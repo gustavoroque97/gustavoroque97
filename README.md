@@ -8,6 +8,7 @@
 ## 📂 Main repositories
 
 - [Heavy metal data](https://github.com/gustavoroque97/heavy_metal_data)
+- [AI Multi-Agent Model for Portfolio Optimization](https://github.com/gustavoroque97/multi-agente-ia-otimizacao-portfolio)
 
 ## 📚 Publications
 
