@@ -9,6 +9,7 @@
 
 - [Heavy metal data](https://github.com/gustavoroque97/heavy_metal_data)
 - [AI Multi-Agent Model for Portfolio Optimization](https://github.com/gustavoroque97/multi-agente-ia-otimizacao-portfolio)
+- [LangGraph RAG: Elden Ring Build Agent](https://github.com/gustavoroque97/elden-ring-build-agent)
 
 ## 📚 Publications
 
